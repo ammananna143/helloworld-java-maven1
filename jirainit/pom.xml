@@ -6,7 +6,7 @@
 
   <groupId>jira</groupId>
   <artifactId>jirainit</artifactId>
-  <version>1.0-SNAPSHOT</version>
+  <version>11.0-SNAPSHOT</version>
 
   <name>jirainit</name>
   <!-- FIXME change it to the project's website -->
